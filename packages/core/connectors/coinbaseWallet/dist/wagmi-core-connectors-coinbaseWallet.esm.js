@@ -1,0 +1,1 @@
+/Users/ash/Projects/grandLine/wagmi/packages/core/src/connectors/coinbaseWallet.ts

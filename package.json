@@ -67,17 +67,6 @@
     "vite": "^2.9.8",
     "vitest": "^0.18.1"
   },
-  "simple-git-hooks": {
-    "pre-commit": "pnpm lint-staged"
-  },
-  "lint-staged": {
-    "*.{js,ts,tsx}": [
-      "pnpm lint:fix"
-    ],
-    "*.{json,md,mdx,yml}": [
-      "pnpm lint:format"
-    ]
-  },
   "packageManager": "pnpm@7.5.0",
   "engines": {
     "node": ">=16",

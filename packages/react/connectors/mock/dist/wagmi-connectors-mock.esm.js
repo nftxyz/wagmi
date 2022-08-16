@@ -1,0 +1,1 @@
+/Users/ash/Projects/grandLine/wagmi/packages/react/src/connectors/mock.ts
